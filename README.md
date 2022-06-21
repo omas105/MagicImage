@@ -1,0 +1,2 @@
+# MagicImage
+LSB-Steganography 
